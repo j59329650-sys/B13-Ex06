@@ -1,16 +1,26 @@
-# React + Vite
+ 
+ # DigiTools - Digital Product Platform 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive digital product landing page built with React. This project allows users to browse products, manage a cart, and receive real-time notifications.
 
-Currently, two official plugins are available:
+## 🌐 Live Site
+ https://j59329650-sys.github.io/B13-Ex06/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Key Features
+- **Dynamic Cart System:** The cart count in the Navbar updates automatically when products are added or removed.
+- **Interactive Buttons:** After clicking "Buy Now," the button text changes to "✅ Added to cart" and becomes disabled to prevent duplicate entries.
+- **Smart Notifications:** Integrated **React-Toastify** to show beautiful alerts when adding products, removing items, or checking out.
+- **Cart Management:** Users can remove individual items from the cart or clear the entire cart using the "Proceed to Checkout" button.
+- **Fully Responsive:** Optimized for all screen sizes, including mobile, tablet, and desktop.
 
-## React Compiler
+## 🛠️ Technologies Used
+- **React.js** (Frontend Library)
+- **Tailwind CSS** (For Styling)
+- **Vite** (Build Tool)
+- **React-Toastify** (For Notifications)
+- **Lucide React** (For Icons)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/B13-Ex06.git](https://github.com/your-username/B13-Ex06.git)
