@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    
+    "name": "AI Writing Pro",
+    "image": "/assets/products/writing_2327400 1.png",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds.",
+    "price": 29,
+    "period": "Monthly",
+    "badge": "Best Seller",
+    "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"],
+    "icon": "https://i.ibb.co/vz6mD7C/ai-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "image": "/assets/products/design-tool.png",
+    "description": "2000+ premium templates for social media and marketing materials.",
+    "price": 49,
+    "period": "One-Time",
+    "badge": "Popular",
+    "features": ["2000+ templates", "Monthly updates", "Commercial license"],
+    "icon": "https://i.ibb.co/vz6mD7C/design-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "image": "/assets/products/camera_8775444 1.png",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "Monthly",
+    "badge": "New",
+    "features": ["10M+ assets", "Commercial use", "No attribution"],
+    "icon": "https://i.ibb.co/vz6mD7C/stock-icon.png"
+  },
+  
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "image": "/assets/products/operation.png",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "price": 79,
+    "period": "Monthly",
+    "badge": "New",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "icon": "https://i.ibb.co/vz6mD7C/cloud-icon.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Scheduler",
+    "image": "/assets/products/social-media.png",
+    "description": "Automate your social media posts across all platforms from one dashboard.",
+    "price": 35,
+    "period": "Monthly",
+    "badge": "Best Seller",
+    "features": ["Multi-platform sync", "Analytics report", "AI Caption generator"],
+    "icon": "https://i.ibb.co/vz6mD7C/social-icon.png"
+  },
+  {
+    "id": 6,
+    "name": "Resume Builder Pro",
+    "image": "/assets/products/portfolio.png",
+    "description": "Create professional resumes and cover letters that land interviews.",
+    "price": 15,
+    "period": "One-Time",
+    "badge": "Trending",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://i.ibb.co/vz6mD7C/video-icon.png"
+  }
+]
+
+
+  
+ 
+ 
