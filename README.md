@@ -23,4 +23,4 @@ A modern and responsive digital product landing page built with React. This proj
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/B13-Ex06.git](https://github.com/your-username/B13-Ex06.git)
+   git clone [https://github.com/j59329650-sys/B13-Ex06.git](https://github.com/j59329650-sys/B13-Ex06.git)
